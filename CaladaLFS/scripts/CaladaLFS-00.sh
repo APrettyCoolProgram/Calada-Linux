@@ -6,4 +6,4 @@
 
 mkdir -p ~/.CaladaLFS/{Logs,Scripts,Temp}
 
-mv ~/caladalfs-00.sh ~/.CaladaLFS/Scripts/
+mv ~/CaladaLFS-00.sh ~/.CaladaLFS/Scripts/
