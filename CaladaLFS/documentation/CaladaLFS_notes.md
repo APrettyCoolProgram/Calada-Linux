@@ -1,4 +1,4 @@
-# galdurlfs_notes
+# caladalfs_notes
 
 - Review other LFS subprojects
 
