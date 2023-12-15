@@ -6,7 +6,27 @@ CaladaLFS is a Debian-based linux distribution.
 
 Start the virtual machine
 
-[IMGS]
+![](01-installer-menu.jpg)
+
+![](02-select-language.jpg)
+
+![](03-select-location.jpg)
+
+![](04-configure-keyboard.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

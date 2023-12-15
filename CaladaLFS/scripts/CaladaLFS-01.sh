@@ -9,6 +9,5 @@ mv ~/CaladaLFS-01.sh ~/.CaladaLFS/Scripts/
 sudo e4defrag /
 cat /dev/zero > ~/zero.zero
 rm zero.zero
-rm .bash_history
-touch .bash_history
 history -c
+sudo shutdown -h now
