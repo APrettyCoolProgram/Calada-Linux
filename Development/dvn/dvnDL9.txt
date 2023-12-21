@@ -1,0 +1,35 @@
+dvnDL9
+
+b171026
+-------
+* Installed a default install of Debian 9.2, using expert install, but did not install software packages. Also using free software.
+* Logged in as root
+* $ apt-get localepurge
+* $ apt-get update
+* $ apt-get install sudo
+* $ apt-get upgrade && apt-get dist-upgrade
+* Remove password requirement from dvn user
+* $ sudo apt-get -y install build-essential linux-headers-$(uname -r) xorg htop curl ca-certificates
+* $ sudo apt-get -y --no-install-recommends xfce4
+* $ sudo apt-get -y install tango-icon-theme xfce4-terminal
+* $ sudo reboot
+* Login as development
+* $ startx
+* $ sudo apt-get -y install filezilla pidgin libasound2 python3 python3-pip default-jdk iceweasel
+* Install Visual Studio Code (https://code.visualstudio.com/docs/setup/linux)
+	* Download the .deb
+	* $ sudo dpkg -i <file>.deb
+	* $ sudo apt-get install -f
+* Install Anaconda (https://conda.io/docs/user-guide/install/linux.html)
+	* Download the .sh
+	* $ bash Anaconda-latest-Linux-x86_64.sh
+* $ sudo apt-get autoremove && apt-get autoclean && apt-get clean
+* $ sudo e4defrag /
+* $ sudo cat /dev/zero > zero.file && rm zero.file
+* $ history -cw
+* $ sudo shutdown -h now
+
+----- COMPRESSED IMAGE VIA VIRTUALBOX
+----- SNAPSHOT dvnDL9_171026.7z
+
+* Install tools

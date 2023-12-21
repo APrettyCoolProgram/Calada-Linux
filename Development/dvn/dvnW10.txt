@@ -1,0 +1,149 @@
+dvnW10-Z1
+VMWare Workstation
+
+b171xx
+--------
+- Vagrant
+- Docker
+- SoapUI
+- Twitter
+- Blog
+
+b171108
+-------
+* Installed VNC Viewer
+
+
+b171030
+-------
+* Installed the following:
+	- Bash
+	- Oracle Java JDK (setup)
+	- GitHub Desktop (setup)
+* Installed the following Visual Studio 2017 extensions:
+	- Editor Guidelines
+	- File Icons
+	- Markdown Editor
+	- Trailing Whitespace Visualizer
+* Installed the following Visual Studio Code extensions (all by Microsoft):
+	- C#
+	- C/C++
+	- PowerShell
+* Show extensions for known file types
+* Clean Start Bar
+* Clean Notification Bar
+* Clean Quick Access
+
+* Clean
+
+-- DEFRAGGED VIA VMWARE
+-- COMPACTED VIA VMWARE
+-- SNAPSHOT 171030.7z
+
+-- CREATED SWAP FILE
+
+b171030_base
+------------
+* Installed the following:
+	- Visual Studio 2017 Community (and setup)
+		- Universal Windows Platform development
+		- .NET desktop development
+		- ASP.NET and web development
+		- Python development
+		- Node.js development
+		- Data storage and processing
+		- Data science and analytical applications
+	- Notepad++
+	- Windows Store apps
+		- Dropbox
+		- OneDrive
+	- Firefox
+	- Chrome
+	- Jetbrains Resharper (and setup)
+	- Jetbrains DotPeek
+	- Visual Studio Code
+	- 7-Zip
+	- Icons8
+	- Dropbox (and setup)
+	- Filezilla (and setup)
+	- Google fonts
+	- Pidgin
+* Installed the following Visual Studio 2017 extensions:
+	- Add New File
+	- Code alignment
+* Clean
+
+-- DEFRAGGED VIA VMWARE
+-- COMPACTED VIA VMWARE
+-- SNAPSHOT 171030_base.7z
+
+b171026_new
+-----------
+* Installed Windows 10
+* Logged in as "cbanwarth@outlook.com"
+* Setup PIN	
+* Turned off all options presented during setup
+* Automatically restarted
+* Installed all updates
+* Made sure System Restore was disabled
+* Removed swapfile
+* Rebooted
+* Disabled Windows Search service
+* Made the following changes to Windows:
+	- Uninstalled bloatware
+* Disabled defragmentation	
+* Applied all Windows updates
+* Made the following changes to Windows:
+	- Turned off all notifications
+	- Turned on Storage sense, and checked all options
+	- Turned off tablet mode
+	- Turned off bluetooth
+	- Turned off Show Windows Ink Workspace recommended apps
+	- Turned off AutoPlay
+	- Deleted all maps
+	- Turned off map updates
+	- Turned off Associate apps with websites
+	- Turned off all Game Mode options
+	- Turned off all Cortana options
+	- Turned off SafeSearch
+	- Turned off Cloud Search
+	- Turned off Device History
+	- Turned off all General privacy settings
+	- Turned off allowing apps to access:
+		> Camera
+		> Microphone
+		> Notifications
+		> Account info
+		> Contacts
+		> Calendar
+		> Call history
+		> Email
+		> Tasks
+		> Messaging
+		> Radios
+		> Other devices
+		> App diagnostics
+	- Disabled all apps from running in the background except:
+		> Edge
+		> OneNote
+		> Settings
+		> Sticky Notes
+		> Store
+		> Windows Security Center
+	- Turned on Developer mode
+	- Changed timezone
+	- Disabled System Restore
+	- Disabled UAC
+	- Disabled Indexing
+	- Disable Cortana
+	- Changed the computer name to "dvnDL9-Z1"
+	- Made Google default search for Edge
+* Organized Start Menu
+* Organized Taskbar
+* Rebooted
+* Cleaned C:\ drive
+* Defragged C:\ drive
+
+-- DEFRAGGED VIA VMWARE
+-- COMPACTED VIA VMWARE
+-- SNAPSHOT 171026_new.7z
