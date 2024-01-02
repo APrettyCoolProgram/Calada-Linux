@@ -9,3 +9,5 @@ cat /dev/zero > ~/zero.zero
 rm zero.zero
 history -c
 sudo shutdown -h now
+
+rm CaladaLFS-01.sh
