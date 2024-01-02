@@ -16,7 +16,7 @@ CaladaLFS is built in a VMWare virtual machine.
 
 The first time you start the CaladaLFS virtual machine, you may get the following message:
 
-![mitigation-message-01.jpg](../01-create-an-empty-vm/mitigation-message-01.jpg)
+![mitigation-message-01.jpg](imgres/mitigation-message-01.jpg)
 
 To avoid this in the future:
 
