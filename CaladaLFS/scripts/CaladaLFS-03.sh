@@ -1,10 +1,14 @@
 #!/bin/bash
 
-# A script to list version numbers of critical development tools
-# If you have tools installed in other directories, adjust PATH here AND
-# in ~lfs/.bashrc (section 4.4) as well.
+## CaladaLFS-03.sh
+## b240102.1527
+## List version numbers of critical development tools.
 
-# www.linuxfromscratch.org
+## This script is originally from www.linuxfromscratch.org.
+##
+## A script to list version numbers of critical development tools
+## If you have tools installed in other directories, adjust PATH here AND
+## in ~lfs/.bashrc (section 4.4) as well.
 
 LC_ALL=C
 PATH=/usr/bin:/bin

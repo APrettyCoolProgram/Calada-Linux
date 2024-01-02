@@ -1,0 +1,120 @@
+
+
+
+
+
+	
+	
+## OPTIONAL INSTALLS ###################################################################################################
+
+#sudo apt-get install -y --no-install-recommends ubuntu-restricted-extras
+#sudo apt-get install -y --no-install-recommends emacs
+#sudo apt-get install -y --no-install-recommends vim
+#sudo apt-get install -y --no-install-recommends gimp
+#sudo apt-get install -y --no-install-recommends pidgin
+
+#Mono
+#Eclipse
+#Sublime Text
+#Atom
+#Brackets
+
+## Dropbox
+# sudo apt-get install -y python-gpgme
+# MORE HERE
+
+## C#.NET for Visual Studio Code
+#curl https://packages.microsoft.com/keys/microsoft.asc | gpg --dearmor > microsoft.gpg
+#sudo mv microsoft.gpg /etc/apt/trusted.gpg.d/microsoft.gpg
+#sudo sh -c 'echo "deb [arch=amd64] https://packages.microsoft.com/repos/microsoft-ubuntu-artful-prod artful main" > /etc/apt/sources.list.d/dotnetdev.list'
+#sudo apt-get install -y dotnet-sdk-2.0.2 --no-install-recommends
+
+#   2. Install Dropbox: https://www.dropbox.com/install
+#
+#   3. Make the following customizations in Gnome Tweak Tool:
+#       Turn on Appearance > Global Dark Theme
+#       Turn on Extensions > Ubuntu appindicators
+#       Turn on Extensions > Ubuntu dock
+#       Turn on Extensions > User themes
+#       Turn on Top Bar > Clock > Date
+#
+#      The final version should look like:
+#  
+#      Applications : Arc
+#      Cursor 		: DMZ-White
+#      Icons 		: Arc
+#      Shell		: None/None
+#
+#   4. Make the following changes to Visual Studio code:
+#
+#       Add the following extensions:
+#           C# extension (Microsoft)
+#           C/C++ extension (Microsoft)
+#           Markdown All in One (Yu Zhang)
+#           PowerShell (Microsoft)
+#           Python (Don Jayamanne)
+
+
+
+## LEMP
+#sudo apt-get install -y nginx \
+#						mariadb-server \
+#						mariadb-client \
+#						--no-install-recommends
+#	
+#sudo systemctl start mariadb
+#sudo systemctl enable mariadb	
+#sudo mysql_secure_installation
+#sudo systemctl enable nginx
+
+## Ada/Gnat
+#sudo apt-get -y install gnat --no-install-recommends
+
+## Erlang
+#sudo apt-get -y install erlang --no-install-recommends
+
+## ABC
+#wget -P $HOME/Downloads http://homepages.cwi.nl/~steven/abc/implementations/abc.tar.gz
+#sudo tar -C /usr/local -xzf $HOME/Downloads/abc.tar.gz
+#echo "PATH=$PATH:/usr/local/ABC" >> .profile												
+	
+## Dart
+#wget -O $HOME/Downloads/dart.deb https://storage.googleapis.com/dart-archive/channels/stable/release/latest/linux_packages/dart_1.24.2-1_amd64.deb
+#sudo dpkg -i $HOME/Downloads/dart.deb
+#export PATH=/usr/lib/dart/bin:$PATH
+
+## Lua
+#sudo apt-get -y install libreadline-dev --no-install-recommends
+#wget -O $HOME/Downloads/lua.tar.gz http://www.lua.org/ftp/lua-5.3.4.tar.gz
+#cd Downloads
+#tar zxf lua.tar.gz
+#cd lua-5.3.4
+#make linux test
+
+## Rust
+#curl https://sh.rustup.rs -sSf | sh
+
+## Anaconda.
+#wget -O $HOME/Downloads/Anaconda.sh https://repo.continuum.io/archive/Anaconda3-5.0.1-Linux-x86_64.sh
+#bash $HOME/Downloads/Anaconda.sh
+
+#    "soapui")
+#         if [[ ! -f $sfHistory/soapui.install ]]; then
+#             wget -O $sfTemp/soapui.sh https://b537910400b7ceac4df0-22e92613740a7dd1247910134033c0d1.ssl.cf5.rackcdn.com/soapui/5.3.0/SoapUI-5.3.0-linux-bin.tar.gz
+#             tar -xzvf $HOME/.stackfor/temp/soapui.tar.gz -C $HOME/.stackfor/temp/
+
+            
+#             chmod +x $sfTemp/soapui.sh
+#             $sfTemp/soapui.sh
+#             touch $sfHistory/soapui.install
+#         fi | tee -a $sfLogs/soapui-install.log
+# ;;
+
+#        "swift") # Swift language -- https://swift.org/download/#using-downloads
+#            InstallAptGetPackage clang libicu-dev
+#            wget -P $dvnTemp https://swift.org/builds/swift-3.1.1-release/ubuntu1610/swift-3.1.1-RELEASE/swift-3.1.1-RELEASE-ubuntu16.10.tar.gz
+#            tar xzf $dvnTemp/swift-3.1.1-RELEASE-ubuntu16.10.tar.gz -C $dvnTemp
+#            mkdir $dvnLanguages/Swift
+#            mv $dvnTemp/swift-3.1.1-RELEASE-ubuntu16.10/* $dvnLanguages/Swift/
+#            echo "PATH=$dvnLanguages/Swift/usr/bin" >> .profile
+#            ;;

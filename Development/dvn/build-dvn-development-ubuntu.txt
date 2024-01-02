@@ -1,0 +1,91 @@
+
+
+
+
+
+03 Basic customizations
+	
+	Change background and lock screen wallpapers
+	Change the dock width to 32px
+
+Once you are done, continue...
+
+
+
+
+PART FOUR: INSTALL SOME EDITORS
+-------------------------------
+
+These are all optional, pick and choose.
+
+
+
+03 Setup Visual Studio Code
+
+	Added the following extensions:
+		C# extension (Microsoft)
+		C/C++ extension (Microsoft)
+		Go (lukehoban)
+		Markdown All in One (Yu Zhang)
+		PowerShell (Microsoft)
+		Python (Don Jayamanne)
+
+Once you are done, continue...
+
+
+
+
+Once you are done, continue...
+
+
+PART FIVE: REMOVE SOME STUFF
+----------------------------
+
+These are all optional, pick and choose.
+
+01 Remove the following:
+
+	AisleRiot Solitare
+	Amazon
+	Cheese
+	Mahjongg
+	Mines
+	RythmBox
+	Shotwell
+	Simple Scan
+	Sudoku
+	Thunderbird
+	Transmission
+
+Once you are done, continue...
+
+
+PART SIX: TAKE A FINAL SNAPSHOT
+-------------------------------
+
+01 Cleanup and shutdown
+
+	$ sudo apt-get update && sudo apt-get upgrade && sudo apt-get dist-upgrade
+	$ sudo rm -rf $HOME/Downloads/*
+	$ sudo apt-get autoremove && sudo apt-get autoclean && sudo apt-get clean
+	$ sudo e4defrag /
+	$ history -cw
+	$ sudo shutdown -h now
+
+02 Defrag/Compress the virtual machine using your virtualization software.
+
+03 Backup the VM to "dvnUL-development-YYMMDD_base (dynamic/fixed-private/shared/none)"
+
+
+
+
+FUTURE
+------
+	
+	
+Eclipse ?
+Docker
+	Also VSCode extension
+Vagrant
+Chef
+Puppet

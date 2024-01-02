@@ -1,20 +1,24 @@
-# Archive CaladaLFS_base
+# Install and verify LFS packages
 
-# Run caladalfs-00.sh
+# Run CaladaLFS-02.sh
 
-The `caladalfs-00.sh` script creates required CaladaLFS framework components.
+The `CaladaLFS-02.sh` script installs packages required by LFS.
 
-`$ wget https://raw.githubusercontent.com/APrettyCoolProgram/Calada-Linux/main/caladalfs/scripts/caladalfs-00.sh`  
-`$ chmod +x /caladalfs-00.sh`  
-`$ .//caladalfs-00.sh`
+Type the following on the command line:
 
-# Run caladalfs-01.sh
+`$ wget https://raw.githubusercontent.com/APrettyCoolProgram/Calada-Linux/main/CaladaLFS/scripts/CaladaLFS-02.sh`  
+`$ chmod +x /CaladaLFS-02.sh`  
+`$ .//CaladaLFS-02.sh`
 
-The `caladalfs-01` cleans and optimizes the system.
+# Run CaladaLFS-03.sh
 
-`$ wget https://raw.githubusercontent.com/APrettyCoolProgram/Calada-Linux/main/caladalfs/scripts/caladalfs-01.sh`  
-`$ chmod +x /caladalfs-01.sh`  
-`$ .//caladalfs-01.sh`
+The `CaladaLFS-01` cleans and optimizes the system.
+
+Type the following on the command line:
+
+`$ wget https://raw.githubusercontent.com/APrettyCoolProgram/Calada-Linux/main/CaladaLFS/scripts/CaladaLFS-00.sh`  
+`$ chmod +x /CaladaLFS-00.sh`  
+`$ .//CaladaLFS-00.sh`
 
 
 
