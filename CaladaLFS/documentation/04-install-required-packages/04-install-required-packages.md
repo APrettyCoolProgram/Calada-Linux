@@ -1,8 +1,8 @@
-# Install and verify LFS packages
+# Install required packages
 
 # Run CaladaLFS-02.sh
 
-The `CaladaLFS-02.sh` script installs packages required by LFS.
+The `CaladaLFS-02.sh` script installs packages required by LFS[^1].
 
 Type the following on the command line:
 
@@ -42,3 +42,9 @@ The `caladalfs-02` verifies the LFS requirements.
 # Install optional packages
 
 - `$ sudo apt-get install openssh-server screen`
+
+<br>
+
+***
+
+[^1]: *Linux from Scratch - Version 12* (Pg. 12)
