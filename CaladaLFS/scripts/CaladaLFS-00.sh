@@ -5,3 +5,5 @@
 ## Create required CaladaLFS framework components.
 
 mkdir -p ~/.CaladaLFS/{Logs,Scripts,Temp}
+
+rm CaladaLFS-00.sh
