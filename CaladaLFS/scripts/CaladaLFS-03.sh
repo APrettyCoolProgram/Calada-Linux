@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ## CaladaLFS-03.sh
-## b231214.1829
+## b240102.1527
 ## List version numbers of critical development tools.
 
 ## This script is originally from www.linuxfromscratch.org.

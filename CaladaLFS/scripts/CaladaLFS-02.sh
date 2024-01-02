@@ -1,7 +1,5 @@
 #!/bin/bash
 
-## CaladaLFS Script #01
-## 
-## Installs packages required by LFS.
-
-sudo apt-get install build-essential bison gawk texinfo
+## CaladaLFS-02.sh
+## b240102.1526
+##
