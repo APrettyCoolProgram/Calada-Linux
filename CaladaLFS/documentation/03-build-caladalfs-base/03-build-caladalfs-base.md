@@ -1,4 +1,4 @@
-# Archive CaladaLFS_base
+# Build the CaladaLFS base
 
 Start the virtual machine, and login using `caladalfs/caladalfs`
 
