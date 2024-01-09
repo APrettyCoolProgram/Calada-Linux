@@ -1,2 +1,1 @@
-# Galdur
-Galdur
+# Calada Linux
